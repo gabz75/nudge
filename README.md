@@ -4,5 +4,5 @@ Nudge allows you to track daily goals as well as your mood. Define your own goal
 
 # Repositories
 
-* [nudge-express](https://github.com/gabz75/nudge-express): Backend API using express, mysql and GraphQL.
-* [nudge-react](https://github.com/gabz75/nudge-react): Frontend using create-react-app.
+* [nudge-express](https://github.com/gabz75/nudge-express): Backend API using `express`, `mysql` and `GraphQL`.
+* [nudge-react](https://github.com/gabz75/nudge-react): Frontend using `create-react-app`.
